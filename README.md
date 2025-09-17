@@ -9,6 +9,28 @@ Thank you for 100K subscribers - and here is your gift, the transparent OLED 128
 **WOKWI sketch: XXX**
 
 
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Transparent OLED display 128x128px SH1107 1.12": https://s.click.aliexpress.com/e/_okz25Yz
+- Arduino UNO R3: https://s.click.aliexpress.com/e/_oF3T34V
+- Breadboard wires: https://s.click.aliexpress.com/e/_o2c75TF
+- Arduino UNO Pinout: https://docs.arduino.cc/hardware/uno-rev3/
+- PCB: https://www.pcbway.com/project/shareproject/Driver_PCB_Board_for_Transparent_OLED_display_128x128px_SH1107_1_12_660950bb.html
+- Lopaka graphics editor: https://lopaka.app
+- SJM406 Channel: https://www.youtube.com/@sjm4306/videos
+
+Related videos with transparent OLED displays / SH1107 displays:
+- SH1107 Clock: https://youtu.be/srgsBWHSNSQ 
+- Compass SH1107: https://youtu.be/G1C09eoJ07c
+- Thank you for 100 Subscribers: https://youtu.be/hIFDcksXgBk
+- Arduino + OLED = 3D: https://youtu.be/kBAcaA7NAlA
+- Smaller & Faster Arduino: https://youtu.be/4GfPQoIRqW8
+- Arduino 3D Menu: https://youtu.be/uEkksez7qvE
+- Arduino OLED Segmented Clock: https://youtu.be/OqqPvb8FEHs
+
+
+_This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
+
 
 Small Animations:
 
