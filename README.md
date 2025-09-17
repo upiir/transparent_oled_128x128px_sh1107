@@ -4,9 +4,9 @@ Thank you for 100K subscribers - and here is your gift, the transparent OLED 128
 ![THUMB_thank_you_100K_and_OLED__V02](https://github.com/user-attachments/assets/8759b666-b4d9-4826-8cf4-84f5db5c2d60)
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/HFeO1TjBkfM**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/442331350503350273**
 
 
 Links from the video:
