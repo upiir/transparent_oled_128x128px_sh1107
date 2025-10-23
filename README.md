@@ -11,7 +11,7 @@ Thank you for 100K subscribers - and here is your gift, the transparent OLED 128
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
-- Transparent OLED display 128x128px SH1107 1.12": https://s.click.aliexpress.com/e/_okz25Yz
+- Transparent OLED display 128x128px SH1107 1.12": https://s.click.aliexpress.com/e/_c3vEun2T
 - Arduino UNO R3: https://s.click.aliexpress.com/e/_oF3T34V
 - Breadboard wires: https://s.click.aliexpress.com/e/_o2c75TF
 - Arduino UNO Pinout: https://docs.arduino.cc/hardware/uno-rev3/
